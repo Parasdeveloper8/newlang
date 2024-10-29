@@ -11,6 +11,7 @@ func main() {
 	performpostreq()
 }
 func performpostreq() {
+	//fake payload
 	requestBody := strings.NewReader(`
 	{
 	    "name":"paras",
