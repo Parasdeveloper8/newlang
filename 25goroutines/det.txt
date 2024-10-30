@@ -1,0 +1,9 @@
+concurrency vs parallelism
+Always remember instagram example for concurrency
+Always remember friends example for parallelism
+
+Goroutines is a parallelism part 
+race condition
+mutex
+wait groups
+deadlocks and channel
